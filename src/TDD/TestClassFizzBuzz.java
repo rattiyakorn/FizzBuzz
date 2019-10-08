@@ -52,4 +52,5 @@ class TestClassFizzBuzz {
 		assertEquals("8", input8);
 	}
 	
+	
 }
