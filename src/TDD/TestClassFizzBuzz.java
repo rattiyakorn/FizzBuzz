@@ -19,6 +19,7 @@ class TestClassFizzBuzz {
 	String wordB ="Buzz";
 	
 	@Test
+	
 	void test1() {
 		assertEquals("1", input1);
 	}
