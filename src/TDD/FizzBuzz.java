@@ -16,6 +16,7 @@ public class FizzBuzz {
 		 }else {
 			 return  Integer.toString(number1);
 		 }
+		 
 	}
 	public String Fizz() {
 		return "Fizz";

@@ -12,6 +12,7 @@ class TestClassFizzBuzz {
 	@Test
 	void test1() {
 		assertEquals("1", input1);
+		
 
 }
 }
